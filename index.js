@@ -11,7 +11,7 @@ function scuberGreetingForFeet(feet){
     result = 'No can do.'
   }
   return result
-  }
+}
 
 
 
