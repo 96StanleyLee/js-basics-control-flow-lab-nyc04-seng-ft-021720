@@ -7,7 +7,7 @@ function scuberGreetingForFeet(feet){
     return 'I will gladly take your thirty bucks.'
   }
   else {
-    result = 'No can do.'
+   return 'No can do.'
   }
   return result
 }
