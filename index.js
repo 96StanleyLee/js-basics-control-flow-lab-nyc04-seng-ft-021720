@@ -9,7 +9,7 @@ function scuberGreetingForFeet(feet){
   else {
    return 'No can do.'
   }
-  return result
+ 
 }
 
 
