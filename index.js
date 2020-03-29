@@ -1,6 +1,5 @@
 function scuberGreetingForFeet(feet){
   // Write your code here!
-  let result
   if(feet <= 400){
    result = 'This one is on me!'
   }
